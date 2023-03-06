@@ -51,3 +51,4 @@ included in unit tests because the unit tests require a server configured with
 digest authentication and those tests require a different authentication
 scheme.  Any cookbook examples not included in unit tests run the risk of
 breaking without anyone noticing--hence we have unit tests whenever possible.
+Hello World
